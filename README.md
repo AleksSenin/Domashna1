@@ -28,11 +28,11 @@ python main.py
 
 ## Инсталација
 1. Инсталирајте ги потребните библиотеки:
-```bash
-    pip install -r requirements.txt
+bash
+ pip install -r requirements.txt
     ```
 2. Извршете ја главната скрипта:
-```bash
+bash
     python main.py
     ```
 
